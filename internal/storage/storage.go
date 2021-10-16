@@ -4,7 +4,7 @@ import (
 	"fmt"
 
 	"github.com/google/uuid"
-	"github.com/istrel/storage/internal/file"
+	"github.com/istrel/storage/v2/internal/file"
 )
 
 type Storage struct {

@@ -1,4 +1,4 @@
-module github.com/istrel/storage
+module github.com/istrel/storage/v2
 
 go 1.17
 

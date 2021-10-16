@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/istrel/storage/internal/storage"
+	"github.com/istrel/storage/v2/internal/storage"
 )
 
 func main() {
